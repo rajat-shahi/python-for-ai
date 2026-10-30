@@ -7,7 +7,7 @@ def say_hello():
 
 def add(x,y):
     result = x + y
-    return result
+    return result,x,y
 
 def calculate(x,y):
     add = x+y
@@ -27,7 +27,8 @@ def check_weather(temp):
 
 say_hello()
 print("hello ji")
-res = add(10,15)
+res,num1,num2 = add(10,15)
+print(res,num1,num2)
 
 calculate_res = calculate(10,15)
 print(calculate_res)
