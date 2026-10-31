@@ -71,3 +71,11 @@ plt.tight_layout()
 pwd = os.getcwd()
 plt.savefig(f"{pwd}/weather_chart.png")
 plt.show()
+
+# save the data to CSV
+if not os.path.exists("data"):
+    os.makedirs("data")
+
+# save to CSV 
+df.to_csv('data/delhi_weather.csv',index=False)
+print("Data saved to data/delhi_weather.csv")
