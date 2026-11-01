@@ -1,0 +1,13 @@
+instance	region	date	cpu	memory	requests	active
+ins-1	Mumbai	2026-10-28	20	15	100	True
+ins-2	Delhi	2026-10-28	80	77	1000	True
+ins-3	Bengaluru	2026-10-28	72	52	750	True
+ins-4	Mumbai	2026-10-28	91	90	1500	True
+ins-5	Delhi	2026-10-28	0	0	0	False
+ins-1	Mumbai	2026-10-29	35	28	250	True
+ins-2	Delhi	2026-10-29	65	70	850	True
+ins-3	Bengaluru	2026-10-29	88	61	1200	True
+ins-4	Mumbai	2026-10-29	95	92	1800	True
+ins-5	Delhi	2026-10-29	12	20	60	True
+ins-1	Mumbai	2026-10-30	42	33	400	True
+ins-2	Delhi	2026-10-30	78	81	1100	True

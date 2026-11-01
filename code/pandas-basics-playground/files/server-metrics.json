@@ -1,0 +1,110 @@
+[
+  {
+    "instance": "ins-1",
+    "region": "Mumbai",
+    "date": "2026-10-28",
+    "cpu": 20,
+    "memory": 15,
+    "requests": 100,
+    "active": true
+  },
+  {
+    "instance": "ins-2",
+    "region": "Delhi",
+    "date": "2026-10-28",
+    "cpu": 80,
+    "memory": 77,
+    "requests": 1000,
+    "active": true
+  },
+  {
+    "instance": "ins-3",
+    "region": "Bengaluru",
+    "date": "2026-10-28",
+    "cpu": 72,
+    "memory": 52,
+    "requests": 750,
+    "active": true
+  },
+  {
+    "instance": "ins-4",
+    "region": "Mumbai",
+    "date": "2026-10-28",
+    "cpu": 91,
+    "memory": 90,
+    "requests": 1500,
+    "active": true
+  },
+  {
+    "instance": "ins-5",
+    "region": "Delhi",
+    "date": "2026-10-28",
+    "cpu": 0,
+    "memory": 0,
+    "requests": 0,
+    "active": false
+  },
+  {
+    "instance": "ins-1",
+    "region": "Mumbai",
+    "date": "2026-10-29",
+    "cpu": 35,
+    "memory": 28,
+    "requests": 250,
+    "active": true
+  },
+  {
+    "instance": "ins-2",
+    "region": "Delhi",
+    "date": "2026-10-29",
+    "cpu": 65,
+    "memory": 70,
+    "requests": 850,
+    "active": true
+  },
+  {
+    "instance": "ins-3",
+    "region": "Bengaluru",
+    "date": "2026-10-29",
+    "cpu": 88,
+    "memory": 61,
+    "requests": 1200,
+    "active": true
+  },
+  {
+    "instance": "ins-4",
+    "region": "Mumbai",
+    "date": "2026-10-29",
+    "cpu": 95,
+    "memory": 92,
+    "requests": 1800,
+    "active": true
+  },
+  {
+    "instance": "ins-5",
+    "region": "Delhi",
+    "date": "2026-10-29",
+    "cpu": 12,
+    "memory": 20,
+    "requests": 60,
+    "active": true
+  },
+  {
+    "instance": "ins-1",
+    "region": "Mumbai",
+    "date": "2026-10-30",
+    "cpu": 42,
+    "memory": 33,
+    "requests": 400,
+    "active": true
+  },
+  {
+    "instance": "ins-2",
+    "region": "Delhi",
+    "date": "2026-10-30",
+    "cpu": 78,
+    "memory": 81,
+    "requests": 1100,
+    "active": true
+  }
+]
