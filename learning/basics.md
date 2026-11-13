@@ -92,3 +92,5 @@
 - `print(value)` (display a value)
 - `print(first_name, last_name, sep="|")` (separator between arguments)
 - `print("Hello", end=" ")` (change the ending; default is a newline)
+- `print("ERROR", *errors, sep="\n", end="...")` (unpack an error list, separate arguments with newlines, finish with `...`)
+- `*errors` passes each list item as a separate argument; it doesn't change the list
