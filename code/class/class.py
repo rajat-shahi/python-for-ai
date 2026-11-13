@@ -24,7 +24,6 @@ class OpenAIClient:
     def __init__(self,provider,model):
         self.provider = provider
         self.model = model 
-        pass
 
     def model_info(self):
         print(f"Provider => {self.provider}, Model => {self.model}")
