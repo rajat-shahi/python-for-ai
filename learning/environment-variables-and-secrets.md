@@ -86,7 +86,7 @@ See the [python-dotenv guide](https://bbc2.github.io/python-dotenv/) for loading
 - [main.py](../code/environment-variables/main.py) reads `API_KEY` and `DATABASE_NAME` from the process environment
 - [env-file.py](../code/environment-variables/env-file.py) loads `.env` and reads `API_KEY` and `DATABASE`
 - `DATABASE` and `DATABASE_NAME` are different keys; use consistent names in the code and configuration
-- `env-file.py` currently prints the API key; replace that with a presence check when practicing with real credentials
+- `env-file.py` reports whether the API key is configured without printing its value
 - changing a `.env` entry means loading it again in a fresh process, or deliberately choosing an override policy
 
 ## Keep secrets out of Git

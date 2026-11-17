@@ -10,5 +10,5 @@ load_dotenv()
 api_key = os.environ.get("API_KEY")
 database = os.environ.get("DATABASE")
 
-print(f"Api Key = {api_key}")
+print("API key configured:", bool(api_key))
 print(f"Database : {database}")
