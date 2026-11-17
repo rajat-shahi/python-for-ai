@@ -92,6 +92,8 @@ Practice: implement a calculator function, then change its inputs and explain ea
 
 Notes: [external tools](external-tools.md) and [requirements](requirements.md).
 
+Setup walkthrough: [virtual environments with venv/pip and uv](virtual-environments.md).
+
 - [ ] Import a whole module, selected names and an alias.
 - [ ] Distinguish standard-library modules from installed third-party packages.
 - [ ] Use `math`, `random`, `datetime`, `os` and `json` in small examples.

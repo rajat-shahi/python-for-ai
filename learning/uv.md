@@ -4,6 +4,7 @@
 - a virtual environment isolates a project's installed packages
 - uv manages Python versions, environments, dependencies and project commands
 - a lockfile records the resolved versions used to recreate an environment
+- for a complete walkthrough comparing venv/pip, uv projects and requirements files, see [virtual environments](virtual-environments.md)
 
 ## Install and check
 

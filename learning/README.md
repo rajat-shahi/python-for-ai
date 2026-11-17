@@ -22,6 +22,7 @@
 | [error-handling](../code/error-handling/) | [error-handling.md](error-handling.md) | Exceptions, input conversion and try/except placement |
 | [class](../code/class/) | [classes.md](classes.md) | Objects, validation, name mangling, inheritance and overriding |
 | Project dependencies | [requirements.md](requirements.md) | Installing and recording package versions |
+| Virtual environments | [virtual-environments.md](virtual-environments.md) | Complete venv/pip and uv setup, requirements, recreation and troubleshooting |
 | Git and GitHub | [git-and-github.md](git-and-github.md) | Commits, branches, remotes, pull requests and ignore rules |
 | [environment-variables](../code/environment-variables/) | [environment-variables-and-secrets.md](environment-variables-and-secrets.md) | Process configuration, dotenv, validation and secrets |
 | Ruff | [ruff.md](ruff.md) | Linting, formatting, rule configuration and checks |
